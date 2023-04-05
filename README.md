@@ -19,4 +19,4 @@ Technologies used: Python 3.10, Pygame
 
 > Projected started / Repository initialized on 05/02/2022
 
-> Formally closed on 05/06/2022
+> Formally closed on 05/06/2022 / Archived on 04/05/2023
